@@ -1,6 +1,12 @@
 <div align="center">
+  
+<img align="center" height="200em" alt="giphy" src="https://media4.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif?cid=ecf05e47rqf1w3nv4b1oevqvevzdjqjbi175xpmhlcdj5kt2&rid=giphy.gif&ct=g" style="max-width:60%;">  
 
-![Introdrução github](https://user-images.githubusercontent.com/94551422/207435759-64bbd19c-fa03-41ad-8a1f-721a871b989d.jpg)
+<h4> QUEM É A BÁRBARA? </h4>
+  
+<h5> Uma desenvolvedora front-end com formação em design de moda. 
+
+  Programadora com habilidades  criativas de um designer para desenvolver interfaces de sites. </h5>
   
 <h4> SKILLS </h4>
   
@@ -15,5 +21,9 @@
 <h4>MAIS SOBRE MIM</h4>
 <a href="https://www.linkedin.com/in/barbaracarloni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/barbaracarloni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+
+<h4> LET´S CODE! </h4>
+
+<img align="center" height="200em" alt="giphy" src="https://media2.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif?cid=790b76116f492beecf0e0c5b38c2225275a946e9fe82b2b4&rid=giphy.gif&ct=g" style="max-width:60%;">
+
 </div>
